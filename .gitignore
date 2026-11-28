@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# NYC 311 project - downloaded data files
+01-nyc-311-service-request-analysis/data/*.csv
+
+# PyCharm local settings
+.idea/
+
